@@ -1,0 +1,25 @@
+body{
+    background-color:azure;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color:black;
+}
+p{
+    color:black;
+}
+.row{
+    margin-top:50px;
+    min-height:100px;
+    justify-content:space-between;
+}
+.show{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h5{
+    color:silver;
+}
+.center{
+    text-align:center;
+}
